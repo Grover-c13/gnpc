@@ -1,0 +1,6 @@
+name: gNpc
+main: com.gc13.gNpc.Plugin
+version: 0
+commands:
+    gnpc:
+      description: "gNpc Commands"
